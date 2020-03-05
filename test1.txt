@@ -1,4 +1,5 @@
 Hello thsi is first file
 Thsi is to test the git commands on local and then check 
 Thsi is the third line
+This is to check conflict on both sides by editing
 
