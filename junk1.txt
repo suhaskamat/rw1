@@ -1,3 +1,0 @@
-this is added from git
-Added line from gh
-this is the third line added from git
