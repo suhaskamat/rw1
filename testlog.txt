@@ -3,6 +3,3 @@ this is added as second line
 
 
 Add this line for log
-
-
-this is the 4th line
